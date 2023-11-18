@@ -46,4 +46,4 @@ https://www.figma.com/file/h85z73dQDwRdbRnn9t29VU/Project-1---Syllabus.io?type=d
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/h85z73dQDwRdbRnn9t29VU/Untitled?type=design&node-id=3-5&t=qtp27g915eklTvI6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A350&mode=design
+https://www.figma.com/proto/h85z73dQDwRdbRnn9t29VU/Project-1---Syllabus.io?type=design&node-id=3-339&t=GOJOtyGg2T5GY0jh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A339&mode=design
